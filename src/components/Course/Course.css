@@ -1,0 +1,13 @@
+.course {
+    height: 300px;
+    width: 500px;
+    padding: 20px 30px;
+    border: 1px solid #9A9FAB;
+    border-radius: 20px;
+    color: black;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
